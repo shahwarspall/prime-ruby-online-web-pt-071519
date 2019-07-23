@@ -1,3 +1,3 @@
 def prime?(array)
-# Add  code here!
+  array.include? do|num
 end
