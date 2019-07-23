@@ -1,3 +1,3 @@
-def prime?(prime1)
- if prime.include? 
+def prime?(num)
+ if num.include? do {|num|
 end
