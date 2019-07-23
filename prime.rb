@@ -1,2 +1,3 @@
-def prime?()
+def prime?(array)
 # Add  code here!
+end
