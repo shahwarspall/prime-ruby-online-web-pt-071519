@@ -1,3 +1,3 @@
-def prime?(array)
-  array.include? do|num
+def prime?(arrays)
+  arrays.include? do|array|
 end
