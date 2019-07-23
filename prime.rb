@@ -1,3 +1,3 @@
-def prime?(prime)
- #code
+def prime?(prime1)
+ if prime.include? 
 end
