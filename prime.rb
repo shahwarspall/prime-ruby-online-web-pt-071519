@@ -1,3 +1,3 @@
-def prime?(arrays)
-  arrays.include? {|array| array.size < 2}
+def prime?(2)
+  2.include? {|array| array.size < 2}
 end
