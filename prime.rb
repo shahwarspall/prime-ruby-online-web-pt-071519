@@ -1,3 +1,3 @@
-def prime?(2)
- #code
+def prime?(array)
+ 
 end
