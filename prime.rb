@@ -1,3 +1,3 @@
 def prime?(num)
- return true if num == 2
+ return true if num == 
 end
